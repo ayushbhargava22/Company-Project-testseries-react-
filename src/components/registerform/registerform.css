@@ -1,0 +1,24 @@
+.registration_wrap{
+    background-image: url(https://sellon.kraftly.com/srcdn/kr-shipmultichannel/register-img/banner.jpg); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#registration_cont{
+    background-color: transparent;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+#registration_wrap{
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+#countryCode{
+    max-width: 80px;
+}
+#conform_pass{
+    padding-right: 30px;
+}
+#pass{
+    padding-left: 25px;
+}

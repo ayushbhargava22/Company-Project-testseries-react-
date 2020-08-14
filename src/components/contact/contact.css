@@ -1,0 +1,9 @@
+#map-container-google-2{
+    height: 500px; 
+    width: 100%;
+}
+#map-container-google-2 iframe{
+    border: 0;
+    height: 100%;
+    width: 100%;
+}

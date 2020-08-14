@@ -1,0 +1,11 @@
+#contact_block_shadow{
+    height: 80% !important;
+}
+#address_line{
+    color: white;
+    background-color: #28a745 !important;
+}
+#address_line span{
+    color: #ffffff;
+    font-weight: bold;
+}

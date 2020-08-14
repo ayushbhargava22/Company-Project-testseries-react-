@@ -1,0 +1,9 @@
+#social_connection{
+    background-image: linear-gradient(to right bottom, #398acc, #008fc5, #0092ba, #0094ad, #00959e, #009696, #00978d, #179783, #0f987d, #0d9977, #11996f, #199a67);
+}
+#social_text{
+    color: #ffffff;
+}
+#social_connection .fa{
+    color: #ffffff;
+}
