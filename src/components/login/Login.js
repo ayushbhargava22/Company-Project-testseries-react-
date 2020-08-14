@@ -60,7 +60,7 @@ export default class login extends Component {
                         <input id="email" type="text" name="username" placeholder="Email Username" class="form-control bg-white border-left-0 border-md" value={this.state.username} onChange={this.onChange} />
                     </div>
 
-                    <div class="input-group col-lg- mb-4">
+                    <div class="input-group col-lg-12 mb-4">
                         <div class="input-group-prepend">
                             <span class="input-group-text bg-white px-4 border-md border-right-0">
                                 <i class="fa fa-lock text-muted"></i>

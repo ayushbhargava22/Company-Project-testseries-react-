@@ -4,3 +4,6 @@
 #trendingcoursebox1{
     float: left;
 }
+.carousel-control-prev-icon .carousel-control-next-icon{
+    background-color: black;
+}

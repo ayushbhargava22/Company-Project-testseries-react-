@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import client1 from '../../images/client-1.jpg'
 import client2 from '../../images/client-2.jpg'
 import client3 from '../../images/client-3.jpg'
+import Common from '../common/Common.css'
 
 const Testimonial = () => {
   return (
