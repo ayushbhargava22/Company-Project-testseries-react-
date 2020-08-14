@@ -30,7 +30,7 @@ const Header = () => {
                             <NavLink className="nav-link" to="/contact">Contact us</NavLink>
                         </li>
                     </ul>
-                    <NavLink className="nav-link" to="#">
+                    <NavLink className="nav-link" to="/login">
                         <button type="button" className="btn btn-secondary login-btn mr-0" id="login_btn">Login</button>
                     </NavLink>
                     <NavLink className="nav-link" to="/register">

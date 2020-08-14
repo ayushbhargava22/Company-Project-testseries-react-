@@ -9,6 +9,7 @@ import Contact from './components/contact/Contact' ;
 import Courses from './components/courses/courses' ;
 import Footer from './components/footer/Footer';
 import Register from './components/register/Register';
+import Login from './components/login/Login';
 
 const App = () => {
   return (
@@ -20,6 +21,7 @@ const App = () => {
       <Route exact path='/contact' component={Contact} />
       <Route exact path='/courses' component={Courses} />
       <Route exact path='/register' component={Register} />
+      <Route exact path='/login' component={Login} />
     </Switch>
     <Footer />
     </>
